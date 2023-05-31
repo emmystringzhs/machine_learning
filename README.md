@@ -16,9 +16,9 @@ Make sure you have the following dependencies installed:
 
 You can install the required Python libraries using pip:
 
-```shell
+```
 pip install pandas numpy nltk scikit-learn
-
+```
 # Dataset
 
 The model uses a dataset of questions and answers to provide responses. The dataset used can be downloaded from <a href="https://www.kaggle.com/datasets/rtatman/questionanswer-dataset?resource=download"> here</a>.
