@@ -48,4 +48,4 @@ The dataset should be stored in the following structure:
 
 # License
 
-This code is released under the MIT License.
+This code is released under the [https://github.com/emmystringzhs/machine_learning/blob/main/LICENSE](MIT License).
